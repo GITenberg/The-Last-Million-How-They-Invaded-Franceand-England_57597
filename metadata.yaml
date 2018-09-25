@@ -1,5 +1,8 @@
 _repo: The-Last-Million-How-They-Invaded-Franceand-England_57597
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 57597-h/images/cover.jpg
 creator:
   author:
     agent_name: Hay, Ian
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '4304'
     url: http://www.gutenberg.org/2009/agents/4304
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57597#The-Last-Million-How-They-Invaded-Franceand-England
 gutenberg_issued: '2018-07-28'
 gutenberg_type: Text
 identifiers:
